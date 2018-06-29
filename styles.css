@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    background-image: url("images/nairobi.jpg");
+
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 0.1px dashed white;
+    opacity: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+    text-align: center;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+#submit{
+    border: 5px;
+    background-color: white;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 10px;
+    
+}
+
+form{
+    font-family: Arial black;
+    font-size: 20px;
+    margin: 0.2em;
+}
+
+#colorPicker{
+    border-radius: 7px;
+}
