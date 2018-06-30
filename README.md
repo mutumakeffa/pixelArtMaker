@@ -1,5 +1,12 @@
 # Pixel Art Maker Project
 
+## Below is the project link
+
+https://mutumakeffa.github.io/pixelArtMaker/
+
+With inspiration from the Nairobi National park background, Create stunning art using the Art Maker..
+
+
 ## Table of Contents
 
 * [Instructions](#instructions)
